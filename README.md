@@ -19,7 +19,7 @@ Estou em transição de carreira, buscando minha primeira oportunidade em TI.
     
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igribeiro)](https://github.com/Igribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igribeiro)](https://github.com/anuraghazra/github-readme-stats)
 
 Acredito que no ramo da tecnologia não há espaço para aqueles que "querem aprender uma vez só", por ter isso em mente estou sempre me atualizando, para estar à altura do que o mercado hoje exige.
 ##
