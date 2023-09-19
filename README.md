@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá, me chamo Igor, muito prazer! 👋🏻
 
-<!--
-**Igribeiro/Igribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas, também sou formado como Técnico em Mecatrônica e aprendendo outro idioma, o Inglês . Sou amante em aprender sobre tecnologia e estou me especializando como Desenvolvedor Front End. 
 
-Here are some ideas to get you started:
+Estou em transição de carreira, buscando minha primeira oportunidade em TI.
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igribeiro&show_icons=true&theme=dracula)
+
+## Tenho conhecimento e prática nas seguintes tecnologias
+
+<div style="display: inline_block">
+    <img align="center" alt="Logo do HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="Logo do CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Logo do Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" alt="Logo do JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="Logo do TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Logo do Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igribeiro)](https://github.com/Igribeiro/github-readme-stats)
+
+Acredito que no ramo da tecnologia não há espaço para aqueles que "querem aprender uma vez só", por ter isso em mente estou sempre me atualizando, para estar à altura do que o mercado hoje exige.
+##
+
+
+## Gostaria de entrar em contato comigo?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rib/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igoorrib)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/ig_ribeiro)
